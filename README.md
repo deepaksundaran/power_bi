@@ -1,4 +1,16 @@
-# power_bi
+# power_bi 
+
+HEALTHCARE REPOTS
+
+
+
+![Screenshot (58)](https://github.com/deepaksundaran/power_bi/assets/123062995/29991ec1-059b-456c-b96d-b8c5f9829eeb)
+
+![Screenshot (61)](https://github.com/deepaksundaran/power_bi/assets/123062995/5ba332d9-81b7-4f4f-8dda-6ceba86f4cda)
+
+![Screenshot (59)](https://github.com/deepaksundaran/power_bi/assets/123062995/ef1ec687-d468-4058-8fca-03e249f7ecbd)
+
+![Screenshot (60)](https://github.com/deepaksundaran/power_bi/assets/123062995/a4c79014-7ac0-4566-af62-2db2fa0b1de2)
 
 
 #output
